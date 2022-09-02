@@ -26,5 +26,7 @@
 		{ "badge": "mouse-god", "points": 5 },
 		{ "badge": "conditionals", "points": 5 },
 		{ "badge": "looper", "points": 5 }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
