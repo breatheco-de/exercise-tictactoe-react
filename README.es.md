@@ -1,4 +1,6 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) TicTacToe Con React
+<!--hide-->
+# TicTacToe Con React
+<!--endhide-->
 
 Es hora de empezar a construir cosas geniales, ¡codifiquemos nuestro primer juego!
 
