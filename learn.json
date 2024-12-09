@@ -10,6 +10,7 @@
 	"syntax": "react.js",
 	"technologies": ["react.js", "javascript"],
 	"duration" : 16,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"description" : "Create a simple tictactoe 2 player game (no AI), using the React.js framework",
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
