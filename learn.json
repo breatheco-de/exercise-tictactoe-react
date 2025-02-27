@@ -13,6 +13,7 @@
 	"syntax": "react.js",
 	"technologies": ["react.js", "javascript"],
 	"duration" : 16,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"description" : {
 		"us": "Build a simple two-player TicTacToe game using React.js. No AI, just a fun interactive board! Learn about state, props, and event handling. Follow best practices, plan components, and implement game logic efficiently",
 		"es": "Crea un sencillo juego de TicTacToe para dos jugadores usando React.js. Sin IA, solo un tablero interactivo y divertido. Aprende sobre estado, props y manejo de eventos. Sigue las mejores prácticas, planifica los componentes e implementa la lógica del juego de manera eficiente."

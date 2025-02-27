@@ -6,15 +6,23 @@ Es hora de empezar a construir cosas geniales, ¡codifiquemos nuestro primer jue
 
 ![Preview for tictactoe](https://github.com/breatheco-de/exercise-tictactoe-react/blob/master/preview.gif?raw=true)
 
+<onlyfor saas="false" withBanner="false">
+ 
 ## 🌱  Cómo iniciar este proyecto
 
- El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-a) Si usas Gitpod (recomendado) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+Recomendamos abrir el `react.js boilerplate`, utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes [clonar el repositorio de GitHub](https://4geeks.com/how-to/github-clone-repository) en tu computadora local utilizando el comando `git clone`.  
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: `git clone https://github.com/4GeeksAcademy/react-hello`.
+Este es el repositorio que necesitas abrir o clonar:  
+
+```sh
+$ git clone https://github.com/4GeeksAcademy/react-hello
+```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 ## 📝 Instrucciones
 
