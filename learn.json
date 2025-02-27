@@ -1,5 +1,8 @@
 {
-	"title" : "TicTacToe with React.js",
+	"title" : {
+		"us": "TicTacToe with React.js",
+		"es": "TicTacToe con React.js"
+	},
 	"slug" : "tictactoe-react",
 	"status": "published",
 	"translations": ["es", "us"],
@@ -11,7 +14,10 @@
 	"technologies": ["react.js", "javascript"],
 	"duration" : 16,
 	"template_url": "https://github.com/4GeeksAcademy/react-hello",
-	"description" : "Create a simple tictactoe 2 player game (no AI), using the React.js framework",
+	"description" : {
+		"us": "Build a simple two-player TicTacToe game using React.js. No AI, just a fun interactive board! Learn about state, props, and event handling. Follow best practices, plan components, and implement game logic efficiently",
+		"es": "Crea un sencillo juego de TicTacToe para dos jugadores usando React.js. Sin IA, solo un tablero interactivo y divertido. Aprende sobre estado, props y manejo de eventos. Sigue las mejores prácticas, planifica los componentes e implementa la lógica del juego de manera eficiente."
+	},
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
 		{ "badge": "select-everything", "points": 5 },
@@ -29,5 +35,8 @@
 		{ "badge": "looper", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=204"
+	}
 }
