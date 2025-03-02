@@ -47,3 +47,4 @@ Create a Tictactoe in React.js just like [this one](https://github.com/breatheco
 
 Here is a video explaining how to do it: [https://www.youtube.com/watch?v=MQonrbY8Ezg&list=PLx0T51ydRO_7qabdLlT69keo68WmbXkrB](https://www.youtube.com/watch?v=MQonrbY8Ezg&list=PLx0T51ydRO_7qabdLlT69keo68WmbXkrB)
 
+Sernaggio was here
